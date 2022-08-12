@@ -109,7 +109,7 @@ document.addEventListener('keydown', event => {
     } else if (event.keyCode === 40) {
         playerDrop();
 
-    }
+    } 
 });
 
 update();
