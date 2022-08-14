@@ -203,9 +203,9 @@ const colors = [
     null, 
     '#FF9CEE',
     '#85E3FF',
-    '#A79AFF',
+    '#D8BFD8',
     '#E6E6FA',
-    '#FFF5BA',
+    '#EE82EE',
     '#FFBEBC',
     '#E7FFAC',
 ];
