@@ -207,7 +207,7 @@ const colors = [
     '#E6E6FA',
     '#EE82EE',
     '#FFBEBC',
-    '#E7FFBC',
+    '#E7FFAC',
 ];
 
 const arena = createMatrix(12, 20);
