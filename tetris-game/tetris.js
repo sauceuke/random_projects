@@ -204,7 +204,7 @@ const colors = [
     '#FF9CEE',
     '#85E3FF',
     '#D8BFD8',
-    '#E6E6FA',
+    '#E7E7FA',
     '#EE82EE',
     '#FFBCAC',
     '#E7ACAC',
