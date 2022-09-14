@@ -15,7 +15,7 @@ function startVideo() {
     )
 }
 
-video.addEventListener('play', () => {
+video.addEventListener('play', () => (
     setInterval(async () => {
         const detections = await faceapi.detectAllFaces(video, new faceapi.tinyFaceDetectorOptions()).withFaceLandmarks().withFaceExpressions()
         console.log(detections)
